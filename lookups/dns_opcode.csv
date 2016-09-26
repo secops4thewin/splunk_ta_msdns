@@ -1,0 +1,6 @@
+OPCODE,query_type
+0,Query
+1,IQuery
+2,Status
+4,Notify
+5,Update
